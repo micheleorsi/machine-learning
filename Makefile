@@ -1,0 +1,2 @@
+project0:
+	jupyter notebook  projects/titanic_survival_exploration/Titanic_Survival_Exploration.ipynb
