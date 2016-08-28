@@ -6,5 +6,6 @@ Content for Udacity's Machine Learning curriculum
 ## Requirements
 
 brew install python
+brew install homebrew/python/scipy
 
 make dependencies
