@@ -1,5 +1,3 @@
 .idea
-projects/boston_housing/.ipynb_checkpoints
-**/*.pyc
-*.ipynb_checkpoints/
-working/supervised_learning/nlp/maximum_likelihood.pyc
+.ipynb_checkpoints
+*.py[cod]
