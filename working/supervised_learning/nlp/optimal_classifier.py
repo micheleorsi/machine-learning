@@ -55,7 +55,6 @@ def LaterWords(sample,word,distance):
     # from @sample. You may want to import your code from the maximum likelihood exercise.
     following_words = NextWordProbability(sample,word)
     total_occurencies = 0
-    print following_words
     for key,value in following_words.iteritems():
         total_occurencies+=value
 
@@ -68,4 +67,4 @@ def LaterWords(sample,word,distance):
 
     return following_words
 
-print LaterWords(sample_memo,"ahead",2)
+print LaterWords(sample_memo,"and",2)
