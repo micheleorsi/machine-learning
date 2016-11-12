@@ -7,5 +7,8 @@ project1:
 project2:
 	jupyter notebook projects/student_intervention/student_intervention.ipynb
 
-dependencies:
-	pip install -r requirements.txt
+install:
+	brew install python
+	brew install homebrew/python/scipy
+	pip install --upgrade pip
+	pip install --upgrade -r requirements.txt
