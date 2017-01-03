@@ -1,3 +1,5 @@
+pip
+scipy
 numpy
 pandas
 matplotlib

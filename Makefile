@@ -9,6 +9,4 @@ project2:
 
 install:
 	brew install python
-	brew install homebrew/python/scipy
-	pip install --upgrade pip
 	pip install --upgrade -r requirements.txt
